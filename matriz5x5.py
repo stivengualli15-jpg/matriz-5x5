@@ -1,4 +1,3 @@
-# Inicializar una matriz de 5x5 llena de ceros
 matriz = [[0 for _ in range(5)] for _ in range(5)]
 for i in range(5):
     for j in range(5):
